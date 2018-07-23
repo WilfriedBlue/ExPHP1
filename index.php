@@ -13,7 +13,7 @@ echo $name;
 
 $lastname = "Artus <br>";
 $firstname =  "Wilfried <br>";
-$age = "29";
+$age = 29;
 echo $lastname . $firstname . $age . " ans <br> <br>";
 
 //Créer une variable km. L'initialiser à 1. Afficher son contenu.
